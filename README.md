@@ -1,6 +1,6 @@
 # LocalChatUDP
 
-"local chat" program that can chat directly with a nearby user and implement it in a Windows, Linux, or Android application program. The "local chat" program is implemented using a client/Server model based on UDP protocol.
+"local chat" program that can chat directly with a nearby user and implement it in a Windows, Linux, or Android application program. The "local chat" program is implemented using a client/Server model based on UDP (User Datagram Protocol).
 
 The chat is performed between a client and a server.
 
